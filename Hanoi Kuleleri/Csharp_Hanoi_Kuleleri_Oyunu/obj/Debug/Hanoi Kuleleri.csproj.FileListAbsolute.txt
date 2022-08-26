@@ -1,0 +1,57 @@
+C:\Users\HÜSEYİN DEVECİ\Desktop\Günlük Yapılanlar\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\bin\Debug\Csharp_Hanoi_Kuleleri_Oyunu.exe.config
+C:\Users\HÜSEYİN DEVECİ\Desktop\Günlük Yapılanlar\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\bin\Debug\Csharp_Hanoi_Kuleleri_Oyunu.exe
+C:\Users\HÜSEYİN DEVECİ\Desktop\Günlük Yapılanlar\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\bin\Debug\Csharp_Hanoi_Kuleleri_Oyunu.pdb
+C:\Users\HÜSEYİN DEVECİ\Desktop\Günlük Yapılanlar\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi Kuleleri.csproj.AssemblyReference.cache
+C:\Users\HÜSEYİN DEVECİ\Desktop\Günlük Yapılanlar\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi Kuleleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\HÜSEYİN DEVECİ\Desktop\Günlük Yapılanlar\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Csharp_Hanoi_Kuleleri_Oyunu.Form_Uygulama.resources
+C:\Users\HÜSEYİN DEVECİ\Desktop\Günlük Yapılanlar\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Csharp_Hanoi_Kuleleri_Oyunu.Form_Siralama.resources
+C:\Users\HÜSEYİN DEVECİ\Desktop\Günlük Yapılanlar\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Csharp_Hanoi_Kuleleri_Oyunu.Properties.Resources.resources
+C:\Users\HÜSEYİN DEVECİ\Desktop\Günlük Yapılanlar\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi Kuleleri.csproj.GenerateResource.cache
+C:\Users\HÜSEYİN DEVECİ\Desktop\Günlük Yapılanlar\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi Kuleleri.csproj.CoreCompileInputs.cache
+C:\Users\HÜSEYİN DEVECİ\Desktop\Günlük Yapılanlar\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Csharp_Hanoi_Kuleleri_Oyunu.exe
+C:\Users\HÜSEYİN DEVECİ\Desktop\Günlük Yapılanlar\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Csharp_Hanoi_Kuleleri_Oyunu.pdb
+C:\Users\Hüseyin DEVECİ\Desktop\Çalışma\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi Kuleleri.csproj.AssemblyReference.cache
+C:\Users\Hüseyin DEVECİ\Desktop\Çalışma\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi Kuleleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hüseyin DEVECİ\Desktop\Çalışma\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Csharp_Hanoi_Kuleleri_Oyunu.Form_Uygulama.resources
+C:\Users\Hüseyin DEVECİ\Desktop\Çalışma\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Csharp_Hanoi_Kuleleri_Oyunu.Form_Siralama.resources
+C:\Users\Hüseyin DEVECİ\Desktop\Çalışma\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi Kuleleri.csproj.GenerateResource.cache
+C:\Users\Hüseyin DEVECİ\Desktop\Çalışma\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi Kuleleri.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin DEVECİ\Desktop\Çalışma\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\bin\Debug\Hanoi_Kuleleri.exe.config
+C:\Users\Hüseyin DEVECİ\Desktop\Çalışma\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\bin\Debug\Hanoi_Kuleleri.exe
+C:\Users\Hüseyin DEVECİ\Desktop\Çalışma\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\bin\Debug\Hanoi_Kuleleri.pdb
+C:\Users\Hüseyin DEVECİ\Desktop\Çalışma\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi_Kuleleri.Properties.Resources.resources
+C:\Users\Hüseyin DEVECİ\Desktop\Çalışma\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi_Kuleleri.exe
+C:\Users\Hüseyin DEVECİ\Desktop\Çalışma\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi_Kuleleri.pdb
+C:\Users\Hüseyin DEVECİ\Desktop\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\bin\Debug\Hanoi_Kuleleri.exe.config
+C:\Users\Hüseyin DEVECİ\Desktop\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\bin\Debug\Hanoi_Kuleleri.exe
+C:\Users\Hüseyin DEVECİ\Desktop\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\bin\Debug\Hanoi_Kuleleri.pdb
+C:\Users\Hüseyin DEVECİ\Desktop\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi Kuleleri.csproj.AssemblyReference.cache
+C:\Users\Hüseyin DEVECİ\Desktop\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi Kuleleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hüseyin DEVECİ\Desktop\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Csharp_Hanoi_Kuleleri_Oyunu.Form_Uygulama.resources
+C:\Users\Hüseyin DEVECİ\Desktop\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi_Kuleleri.Properties.Resources.resources
+C:\Users\Hüseyin DEVECİ\Desktop\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi Kuleleri.csproj.GenerateResource.cache
+C:\Users\Hüseyin DEVECİ\Desktop\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi Kuleleri.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin DEVECİ\Desktop\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi_Kuleleri.exe
+C:\Users\Hüseyin DEVECİ\Desktop\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi_Kuleleri.pdb
+C:\Users\Hüseyin DEVECİ\Desktop\Çalışma\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\bin\Debug\Hanoi_Kuleleri.exe.config
+C:\Users\Hüseyin DEVECİ\Desktop\Çalışma\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\bin\Debug\Hanoi_Kuleleri.exe
+C:\Users\Hüseyin DEVECİ\Desktop\Çalışma\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\bin\Debug\Hanoi_Kuleleri.pdb
+C:\Users\Hüseyin DEVECİ\Desktop\Çalışma\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi Kuleleri.csproj.AssemblyReference.cache
+C:\Users\Hüseyin DEVECİ\Desktop\Çalışma\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi Kuleleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hüseyin DEVECİ\Desktop\Çalışma\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Csharp_Hanoi_Kuleleri_Oyunu.Form_Uygulama.resources
+C:\Users\Hüseyin DEVECİ\Desktop\Çalışma\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi_Kuleleri.Properties.Resources.resources
+C:\Users\Hüseyin DEVECİ\Desktop\Çalışma\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi Kuleleri.csproj.GenerateResource.cache
+C:\Users\Hüseyin DEVECİ\Desktop\Çalışma\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi Kuleleri.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin DEVECİ\Desktop\Çalışma\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi_Kuleleri.exe
+C:\Users\Hüseyin DEVECİ\Desktop\Çalışma\Csharp_Hanoi_Kuleleri_Oyunu\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi_Kuleleri.pdb
+C:\Users\kapsul.konya\Downloads\Hanoi_Towers-main\Hanoi_Towers-main\Hanoi Kuleleri\Csharp_Hanoi_Kuleleri_Oyunu\bin\Debug\Hanoi_Kuleleri.exe.config
+C:\Users\kapsul.konya\Downloads\Hanoi_Towers-main\Hanoi_Towers-main\Hanoi Kuleleri\Csharp_Hanoi_Kuleleri_Oyunu\bin\Debug\Hanoi_Kuleleri.exe
+C:\Users\kapsul.konya\Downloads\Hanoi_Towers-main\Hanoi_Towers-main\Hanoi Kuleleri\Csharp_Hanoi_Kuleleri_Oyunu\bin\Debug\Hanoi_Kuleleri.pdb
+C:\Users\kapsul.konya\Downloads\Hanoi_Towers-main\Hanoi_Towers-main\Hanoi Kuleleri\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi Kuleleri.csproj.AssemblyReference.cache
+C:\Users\kapsul.konya\Downloads\Hanoi_Towers-main\Hanoi_Towers-main\Hanoi Kuleleri\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi Kuleleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\kapsul.konya\Downloads\Hanoi_Towers-main\Hanoi_Towers-main\Hanoi Kuleleri\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Csharp_Hanoi_Kuleleri_Oyunu.Form_Uygulama.resources
+C:\Users\kapsul.konya\Downloads\Hanoi_Towers-main\Hanoi_Towers-main\Hanoi Kuleleri\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi_Kuleleri.Properties.Resources.resources
+C:\Users\kapsul.konya\Downloads\Hanoi_Towers-main\Hanoi_Towers-main\Hanoi Kuleleri\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi Kuleleri.csproj.GenerateResource.cache
+C:\Users\kapsul.konya\Downloads\Hanoi_Towers-main\Hanoi_Towers-main\Hanoi Kuleleri\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi Kuleleri.csproj.CoreCompileInputs.cache
+C:\Users\kapsul.konya\Downloads\Hanoi_Towers-main\Hanoi_Towers-main\Hanoi Kuleleri\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi_Kuleleri.exe
+C:\Users\kapsul.konya\Downloads\Hanoi_Towers-main\Hanoi_Towers-main\Hanoi Kuleleri\Csharp_Hanoi_Kuleleri_Oyunu\obj\Debug\Hanoi_Kuleleri.pdb
