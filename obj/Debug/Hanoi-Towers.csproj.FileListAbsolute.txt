@@ -1,0 +1,11 @@
+C:\Users\kapsul.konya\Downloads\deneme\Hanoi-Towers\obj\Debug\Hanoi-Towers.csproj.AssemblyReference.cache
+C:\Users\kapsul.konya\Downloads\deneme\Hanoi-Towers\obj\Debug\Hanoi-Towers.csproj.SuggestedBindingRedirects.cache
+C:\Users\kapsul.konya\Downloads\deneme\Hanoi-Towers\obj\Debug\Hanoi_Towers.Properties.Resources.resources
+C:\Users\kapsul.konya\Downloads\deneme\Hanoi-Towers\obj\Debug\Hanoi-Towers.csproj.GenerateResource.cache
+C:\Users\kapsul.konya\Downloads\deneme\Hanoi-Towers\obj\Debug\Hanoi-Towers.csproj.CoreCompileInputs.cache
+C:\Users\kapsul.konya\Downloads\deneme\Hanoi-Towers\bin\Debug\Hanoi_Towers.exe.config
+C:\Users\kapsul.konya\Downloads\deneme\Hanoi-Towers\bin\Debug\Hanoi_Towers.exe
+C:\Users\kapsul.konya\Downloads\deneme\Hanoi-Towers\bin\Debug\Hanoi_Towers.pdb
+C:\Users\kapsul.konya\Downloads\deneme\Hanoi-Towers\obj\Debug\Hanoi_Towers.exe
+C:\Users\kapsul.konya\Downloads\deneme\Hanoi-Towers\obj\Debug\Hanoi_Towers.pdb
+C:\Users\kapsul.konya\Downloads\deneme\Hanoi-Towers\obj\Debug\Hanoi_Towers.Form_Uygulama.resources
